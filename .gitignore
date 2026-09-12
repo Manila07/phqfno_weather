@@ -1,0 +1,10 @@
+﻿.venv/
+__pycache__/
+*.pyc
+data/raw/
+data/processed/synthetic_2d/*.npy
+results/*.pth
+.vscode/
+.ipynb_checkpoints/
+PDEBench/
+Untitled*.ipynb
