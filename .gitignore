@@ -8,3 +8,5 @@ results/*.pth
 .ipynb_checkpoints/
 PDEBench/
 Untitled*.ipynb
+data/2D/
+data/1D/
