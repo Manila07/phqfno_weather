@@ -2,11 +2,13 @@
 __pycache__/
 *.pyc
 data/raw/
+data/1D/
+data/2D/
 data/processed/synthetic_2d/*.npy
+data/processed/toy/
 results/*.pth
 .vscode/
 .ipynb_checkpoints/
 PDEBench/
 Untitled*.ipynb
-data/2D/
-data/1D/
+untitled.txt
